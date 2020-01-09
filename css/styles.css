@@ -1,0 +1,16 @@
+.well {
+  margin-top: 50px;
+}
+
+h3, p {
+  text-align: center;
+}
+
+.categories {
+  padding-top: 30px;
+  position: relative; left: 30px;
+}
+
+.header {
+  position: relative; right: 80px;
+}
